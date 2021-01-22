@@ -1,0 +1,120 @@
+body
+{
+	background: #b9b8b8;
+}
+img{
+	width: 10000px;
+}
+
+	.login_div1 
+	{
+		background: lightskyblue;
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+		width: 400px;
+	}
+	 .login_div2{
+		background: rgb(66, 66, 241);
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+		width: 400px;
+	}
+
+
+#player1_name , #player2_name
+{
+	display: inline-block;
+	margin-left: 20px;
+}
+#word
+{
+	width: 60%;
+}
+#word_display
+{
+	letter-spacing: 5px;
+}
+#output
+{
+background: white;
+border-radius: 10px;
+border-top: 10px solid lightblue;
+padding: 10px;
+float: none;
+text-align: left;
+}
+.line {
+    height: 6px;
+    background-color:lightblue;
+    width: 70px;
+
+}
+.line2 {
+    height: 6px;
+    background-color:lightblue;
+    width: 70px;
+   margin-left: 100px;
+   margin-top: 10px;
+}
+#player1_name_input, #player1_pswd_input
+{
+border-radius: 80px;
+
+}
+#player2_name_input, #player2_pswd_input
+{
+border-radius: 80px;
+
+}
+button{
+		
+	height:40px;;
+	border-radius: 15px;
+	background-color: lightseagreen;
+	margin-bottom: 40px;
+}
+h1, h2{
+	font-family: 'Potta One', cursive;
+}
+#num1, #num2{
+	width: 600px;;
+}
+.modal-content{
+    margin-top: 100px;
+    
+}
+.img_modal{
+    display: inline-block;
+    
+}
+.p_modal{
+    margin-top: 10px;
+    
+}
+#number1, #number2{
+	width: 500px;
+}
+.modal-body{
+    text-align: center;
+}
+#achievementsID{
+    padding-bottom: 10px;
+    
+}
+.movie_head{
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 200px;
+    display: inline-block;
+    
+}
+.movie_head i{
+    float: right;
+}
+span{
+	font-size: 20px;
+}
